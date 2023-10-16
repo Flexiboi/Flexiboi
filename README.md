@@ -3,13 +3,13 @@
 </div>
 </br>
 <div id="findmore" align="center">
-  - <h1 align="center">Find more about me</h1>
+  <h1 align="center">Find more about me</h1>
   <a href="https://twitter.com/flexiartt"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://flexiartt.com/"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=adobe&logoColor=white" alt="Portfolio"/></a>
 </div>
 </br>
 <div id="skills" align="center">
-  <h1 align="center">My Skills</h1>
+  <code style="color : orange">MY SKILLS</code>
 
   <p align="center">Languages</p>
   <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
