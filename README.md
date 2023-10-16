@@ -37,5 +37,5 @@
   <code align="center">Audio</code>
   </br>
   </br>
-  <img src="https://img.shields.io/badge/FLSTUDIO-orange?style=for-the-badge&logo=amusicbrainz&logoColor=white" alt="FL STUDIO"/>
+  <img src="https://img.shields.io/badge/FLSTUDIO-orange?style=for-the-badge&logo=applemusic&logoColor=white" alt="FL STUDIO"/>
 </div>
