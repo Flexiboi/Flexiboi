@@ -4,7 +4,7 @@
 </br>
 <div id="findmore" align="center">
   <h1 align="center">FIND MORE ABOUT ME</h1>
-  <a href="https://twitter.com/flexiartt"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://twitter.com/flexiartt"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://flexiartt.com/"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=adobe&logoColor=white" alt="PORTFOLIO"/></a>
   <a href="https://forum.cfx.re/u/flexiboi/summary"><img src="https://img.shields.io/badge/fivem-orange?style=for-the-badge&logo=fivem&logoColor=white" alt="FIVEM"/></a>
 </div>
