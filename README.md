@@ -3,15 +3,15 @@
 </div>
 </br>
 <div id="findmore" align="center">
-  <h1 align="center">Find more about me</h1>
+  <h1 align="center">FIND MORE ABOUT ME</h1>
   <a href="https://twitter.com/flexiartt"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://flexiartt.com/"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=adobe&logoColor=white" alt="Portfolio"/></a>
 </div>
 </br>
 <div id="skills" align="center">
-  <code style="color : darkorange">MY SKILLS</code>
+  <h1 align="center" style="color : darkorange">MY SKILLS</h1>
 
-  <p align="center">Languages</p>
+  <code align="center">Languages</code>
   <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT"/>
   <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=csswizardry&logoColor=white" alt="CSS"/>
@@ -19,7 +19,7 @@
 
   </br>
   
-  <p align="center">Design</p>
+  <code align="center">Design</code>
   <img src="https://img.shields.io/badge/adobephotoshop-darkblue?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="PHOTOSHOP"/>
   <img src="https://img.shields.io/badge/adobeillustrator-orange?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="ILLUSTRATOR"/>
   <img src="https://img.shields.io/badge/adobeaftereffects-purple?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="AFTEREFFECTS"/>
