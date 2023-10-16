@@ -14,10 +14,10 @@
   <code align="center">Languages</code>
   </br>
   </br>
-  <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT"/>
-  <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=csswizardry&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/lua-blue?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"/>
+  <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=csswizardry&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT"/>
 
   </br>
   
