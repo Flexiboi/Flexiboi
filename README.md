@@ -9,7 +9,7 @@
 </div>
 </br>
 <div id="skills" align="center">
-  <code style="color : orange">MY SKILLS</code>
+  <code style="color : darkorange">MY SKILLS</code>
 
   <p align="center">Languages</p>
   <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
