@@ -11,8 +11,8 @@
 <div id="skills" align="center">
   <h1 align="center" style="color:orange;font-size:'29px';">My Skills</h1>
   <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT"/>
-  <img src="https://img.shields.io/badge/csswizardry-red?style=for-the-badge&logo=csswizardry&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT"/>
+  <img src="https://img.shields.io/badge/csswizardry-blue?style=for-the-badge&logo=csswizardry&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/adobephotoshop-darkblue?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="PHOTOSHOP"/>
   <img src="https://img.shields.io/badge/adobeillustrator-orange?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="ILLUSTRATOR"/>
   <img src="https://img.shields.io/badge/adobeaftereffects-purple?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="AFTEREFFECTS"/>
