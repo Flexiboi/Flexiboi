@@ -8,6 +8,7 @@
   <a href="https://flexiartt.com/"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=adobe&logoColor=white" alt="PORTFOLIO"/></a>
   <a href="https://forum.cfx.re/u/flexiboi/summary"><img src="https://img.shields.io/badge/Fivem-orange?style=for-the-badge&logo=fivem&logoColor=white" alt="FIVEM"/></a>
   <a href="https://soundcloud.com/flexiboii"><img src="https://img.shields.io/badge/Soundcloud-orange?style=for-the-badge&logo=soundcloud&logoColor=white" alt="FIVEM"/></a>
+  <a href="https://soundcloud.com/flexiboii"><img src="https://img.shields.io/badge/Discord-mediumslateblue?style=for-the-badge&logo=discord&logoColor=white" alt="FIVEM"/></a>
 </div>
 </br>
 <div id="skills" align="center">
