@@ -31,7 +31,7 @@
   </br>
   <img src="https://img.shields.io/badge/FLSTUDIO-orange?style=for-the-badge&logo=applemusic&logoColor=white" alt="FL STUDIO"/>
 </div>
-
+</br>
 <div id="skills" align="center">
   <h1 align="center" style="color : darkorange">MY GIT STATS</h1>
   <table align="center">
