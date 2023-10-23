@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="480" height="360"/>
 </div>
 </br>
-<div id="skills" align="center">
+<div id="skills">
   <h1 align="center" style="color : darkorange">MY SKILLS</h1>
 
   <code align="center">Languages</code>
