@@ -5,15 +5,23 @@
 <div id="skills">
   <h1 align="center" style="color : darkorange">MY SKILLS</h1>
 
-  <code align="center">Languages</code>
+  <div id="user-content-toc">
+    <ul>
+      <summary><h1 style="display: inline-block"><code>LANGUAGES</code></h1></summary>
+    </ul>
+  </div>
   <img src="https://img.shields.io/badge/lua-blue?style=for-the-badge&logo=lua&logoColor=white" alt="LUA"/>
   <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=csswizardry&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JAVASCRIPT"/>
 
   </br>
-  
-  <code align="center">Design</code>
+
+  <div id="user-content-toc">
+    <ul>
+      <summary><h1 style="display: inline-block"><code>DESIGN</code></h1></summary>
+    </ul>
+  </div>
   <img src="https://img.shields.io/badge/adobephotoshop-darkblue?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="PHOTOSHOP"/>
   <img src="https://img.shields.io/badge/adobeillustrator-orange?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="ILLUSTRATOR"/>
   <img src="https://img.shields.io/badge/adobeaftereffects-purple?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="AFTEREFFECTS"/>
@@ -21,8 +29,12 @@
   <img src="https://img.shields.io/badge/adobexd-purple?style=for-the-badge&logo=adobexd&logoColor=white" alt="XD"/>
   
   </br>
-  
-  <code align="center">Audio</code>
+
+  <div id="user-content-toc">
+    <ul>
+      <summary><h1 style="display: inline-block"><code>AUDIO</code></h1></summary>
+    </ul>
+  </div>
   <img src="https://img.shields.io/badge/FLSTUDIO-orange?style=for-the-badge&logo=applemusic&logoColor=white" alt="FL STUDIO"/>
 </div>
 </br>
